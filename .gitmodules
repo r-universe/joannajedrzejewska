@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "RCtest"]
 	path = RCtest
-	url = https://github.com/cran/RCtest
+	url = https://github.com/joannajedrzejewska/rctest
